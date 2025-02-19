@@ -9,6 +9,8 @@ public class Main {
 
         System.out.println("I study in BATI");
 
+        System.out.println("Kn-31");
+
 
 
         System.out.println("I'm a student");
