@@ -6,5 +6,7 @@ public class Main {
         }
 
         System.out.println("I'm 20 years old");
+
+        System.out.println("I study in BATI");
     }
 }
